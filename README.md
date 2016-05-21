@@ -8,7 +8,7 @@ Package `goji-gzip` allows to compress all responses to a certain goji instance.
 package main
 
 import (
-    "github.com/theosomefactory/goji-gzip"
+    "github.com/patrickdappollonio/goji-gzip"
     "github.com/zenazn/goji"
 )
 
